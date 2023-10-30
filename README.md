@@ -1,1 +1,12 @@
-måste bli bättre på pwershell. Tänkte att jag lägger mina script här
+## Commandlets
+
+Find-Module
+Find-Scropt
+
+
+#### ForEach 
+```
+ForEach ($user in $users) {
+     Set-ADUser $user -Department "Marketing"
+}
+```
