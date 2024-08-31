@@ -1,7 +1,7 @@
 ## Commandlets
 
 Find-Module
-Find-Scropt
+Find-Script
 
 
 #### ForEach 
